@@ -1,11 +1,9 @@
 # Note Taker
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+The objective for this project was to modify starter code to create an application that can be used to write and save notes using Express.js back end. 
 
 ## Table of Contents
 * [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -39,22 +37,17 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
 
 ## Screenshots
-
+![image](https://user-images.githubusercontent.com/97489289/175013862-4eab9f38-168f-423a-b296-ec03e935b49f.png)
 
 
 ## Installation
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+Run 
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+```
+npm install
+```
 
 ## Usage
 To use this app run following command: 
